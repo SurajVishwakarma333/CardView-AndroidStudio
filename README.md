@@ -19,3 +19,9 @@ This attribute is used to set the Background color for the CardView.
 This attribute is used to set the corner radius for the CardView. We can also set the corner radius programmatically using setRadius(float radius) method.
 
 ![BG](https://user-images.githubusercontent.com/101108540/174737400-82d9d8e3-aeef-4a7b-bec2-11aca45a24b3.jpg)
+
+**3. card_view:cardElevation**
+This attribute is used to set the elevation for the CardView. Elevation is used to show the shadow of the CardView. We can also set the card elevation value programmatically using setCardElevation(float elevation) method.
+
+![BG](https://user-images.githubusercontent.com/101108540/174737400-82d9d8e3-aeef-4a7b-bec2-11aca45a24b3.jpg)
+
