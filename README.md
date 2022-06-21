@@ -25,13 +25,14 @@ This attribute is used to set the elevation for the CardView. Elevation is used 
 
 ![ok](https://user-images.githubusercontent.com/101108540/174740577-178f62ac-99cd-48ab-a083-fcfb75664017.jpg)
 
-**4. card_view:contentPadding, cardview:contentPaddingLeft, cardview:contentPaddingBottom, cardview:contentPaddingRight, cardview:contentPaddingTop**
+**4. card_view:contentPadding = cardview:contentPaddingLeft, cardview:contentPaddingBottom, cardview:contentPaddingRight, cardview:contentPaddingTop**
 
 This attribute is used to set the inner padding between the edges of the Card and children of the CardView. 
 This attribute is used to set the equally padding between all the edges of the card and children of the CardView. 
 We can also set the padding from bottom, top, left and right edges. We can also set padding programmatically using setContentPadding(int left, int top, int right, int bottom) method.
 
 
+![edit](https://user-images.githubusercontent.com/101108540/174747709-b68d1df5-5f94-46e8-aba2-0ce6a9a1be1b.jpg)
 
 
 
