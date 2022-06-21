@@ -12,4 +12,10 @@
 **1. card_view:cardBackgroundColor :** 
 This attribute is used to set the Background color for the CardView. 
 
+![BACKGROUND](https://user-images.githubusercontent.com/101108540/174737808-b6f07089-84dc-402a-a19c-a29c0bc69f7f.jpg)
+
+
+**2. card view:cardCornerRadius:**
+This attribute is used to set the corner radius for the CardView. We can also set the corner radius programmatically using setRadius(float radius) method.
+
 ![BG](https://user-images.githubusercontent.com/101108540/174737400-82d9d8e3-aeef-4a7b-bec2-11aca45a24b3.jpg)
